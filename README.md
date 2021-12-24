@@ -11,14 +11,14 @@ The following .ipynb files are for collecting data from the Copernicus API:
 city_humid.ipynb \
 city_precip.ipynb \
 city_temp.ipynb \
-city_wind.ipynb \
+city_wind.ipynb 
 
 The data is then saved in the following folders for each city annually or biannually:
 
 complete_wind \
 humid_data \
 precipitation_data \
-temp_data \
+temp_data 
 
 The wind power generation data is collected from PJM Interconnection.
 https://dataminer2.pjm.com/feed/gen_by_fuel
