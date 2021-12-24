@@ -27,7 +27,7 @@ The annual power generation data is stored in the gen_data folder.
 
 All data was collected and cleaned using the data_collection.ipynb notebook and saved in the following .csv files:
 
-gen_data_full_formatted.csv
+gen_data_full_formatted.csv \
 weather_data_full.csv
 
 A neural network, random forest regression and XGBoost regression models are compared based on RMSE and MAE evaluation metrics.
